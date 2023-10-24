@@ -5,4 +5,4 @@
 ### three hashes
 - first item
 - second item
-- thrid item
+- third item
